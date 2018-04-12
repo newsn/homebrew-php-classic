@@ -1,0 +1,5 @@
+{
+  "drush5": "drush@5",
+  "php70-libsodium": "php70-libsodium@1.0",
+  "php71-libsodium": "php71-libsodium@1.0"
+}
